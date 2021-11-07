@@ -8,7 +8,7 @@ Proyecto creado haciendo uso de Gulp, SASS, HTML y Java Script. Inspirado en un 
 - Toggle button en menú de navegación para dispositivos móviles o pantallas pequeñas.
 - Video en loop ubicado en la sección del header responsive.
 - Barra de navegación estática.
-- Uso de diferentes mixins y user snipets.
+- Uso de diferentes mixins.
 
 ## Imágenes de demostración
 
