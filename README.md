@@ -1,7 +1,7 @@
 # music-festival
-Proyecto creado haciendo uso de Gulp, SASS, HTML y Java Script. Está basado en un festival de música "Rock & Roll Festival"
+Proyecto creado haciendo uso de Gulp, SASS, HTML y Java Script. Inspirado en un festival musical destinado a amantes del Rock
 
-Algunas características de este sitio son:
+## Algunas características de este sitio son:
 
 - Responsive.
 - Optimización de imágenes con gulp (formatos webp, avif, jpg y png).
