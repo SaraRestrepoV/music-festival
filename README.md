@@ -10,6 +10,8 @@ Proyecto creado haciendo uso de Gulp, SASS, HTML y Java Script. Inspirado en un 
 - Barra de navegación estática.
 - Uso de diferentes mixins.
 - Galería creada haciendo uso de JavaScript.
+- Mejora del código con Terser y Gulp.
+- Smooth Scroll.
 
 ## Imágenes de demostración
 
