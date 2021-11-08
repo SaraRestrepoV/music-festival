@@ -9,6 +9,7 @@ Proyecto creado haciendo uso de Gulp, SASS, HTML y Java Script. Inspirado en un 
 - Video en loop ubicado en la sección del header responsive.
 - Barra de navegación estática.
 - Uso de diferentes mixins.
+- Galería creada haciendo uso de JavaScript.
 
 ## Imágenes de demostración
 
