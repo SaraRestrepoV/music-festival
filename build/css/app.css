@@ -402,6 +402,8 @@ h3 {
 
 img {
   max-width: 100%;
+  width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -623,4 +625,82 @@ img {
 .contenido-festival .fecha {
   color: #d72828;
   font-weight: 700;
+}
+
+.lineup {
+  background-color: #111111;
+  padding: 5rem 0;
+}
+.lineup h3, .lineup p {
+  text-align: center;
+  color: #FFFFFF;
+}
+.lineup .dia {
+  text-transform: uppercase;
+  margin: 5rem 0;
+}
+
+@media (min-width: 768px) {
+  .escenarios-contenedor {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 5rem;
+  }
+}
+.escenarios-contenedor p {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+}
+
+.escenario {
+  padding-top: 2rem;
+}
+.escenario p::after {
+  content: "";
+  display: block;
+  width: 20rem;
+  height: 10rem;
+  background-size: 15rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin: 2rem auto 0 auto;
+}
+
+.rock .nombre-escenario::after {
+  background-image: url(../img/icono_rock.png);
+}
+
+.edm .nombre-escenario::after {
+  background-image: url(../img/icono_edm.png);
+}
+
+.calendario {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #111111;
+}
+.calendario li {
+  padding: 2.5rem;
+  font-weight: 800;
+}
+.calendario li span {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.bg-rojo {
+  background-color: #d72828;
+}
+.bg-rojo li:nth-child(odd) {
+  background-color: #ac2020;
+}
+
+.bg-verde {
+  background-color: #003049;
+}
+.bg-verde li:nth-child(odd) {
+  background-color: #00263a;
 }
