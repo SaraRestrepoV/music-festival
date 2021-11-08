@@ -12,6 +12,7 @@ Proyecto creado haciendo uso de Gulp, SASS, HTML y Java Script. Inspirado en un 
 - Galería creada haciendo uso de JavaScript.
 - Mejora del código con Terser y Gulp.
 - Smooth Scroll.
+- Minificación con autoprefixer y cssnano.
 
 ## Imágenes de demostración
 
