@@ -14,3 +14,7 @@ navToggle.addEventListener("click", ( ) => {
 document.addEventListener('DOMContentLoaded', function() {
     iniciarApp();
 });
+
+function iniciarApp() {
+    
+}
