@@ -14,7 +14,7 @@ Proyecto creado haciendo uso de Gulp, SASS, HTML y Java Script. Inspirado en un 
 - Smooth Scroll.
 - Minificación con autoprefixer y cssnano.
 
-## Imágenes de demostración
+## Imágenes del proyecto
 
 
 ![Captura](https://user-images.githubusercontent.com/89092194/140663242-bd971fe0-ac95-4bd7-b0be-1541956ca473.PNG) 
